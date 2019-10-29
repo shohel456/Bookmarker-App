@@ -12,3 +12,5 @@ Just download and open index.html. It is all client side
 ### Contributer
 
 1. [Khushal Sharma](https://github.com/Logan1x)
+
+2. ahad ali 
