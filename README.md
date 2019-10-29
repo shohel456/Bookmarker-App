@@ -11,6 +11,4 @@ Just download and open index.html. It is all client side
 
 ### Contributer
 
-1. [Ahad Ali](https://github.com/ahadali/)
-
-2. [Khushal Sharma](https://github.com/Logan1x)
+1. [Khushal Sharma](https://github.com/Logan1x)
