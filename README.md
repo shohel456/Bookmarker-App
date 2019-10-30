@@ -5,9 +5,8 @@ Simple application for bookmarking webistes. It uses localStorage for storing bo
 ### Version
 1.0.0
 
-### Usage
-
-Just download and open index.html. It is all client side
+###TO use the app
+Run the index.html it is client side web app.
 
 ### Contributer
 
