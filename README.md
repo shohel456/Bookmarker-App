@@ -10,6 +10,4 @@ Run the index.html it is client side web app.
 
 ### Contributer
 
-1. [Khushal Sharma](https://github.com/Logan1x)
-
-2. ahad ali 
+1.  ahad ali 
